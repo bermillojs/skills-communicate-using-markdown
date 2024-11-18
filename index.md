@@ -4,3 +4,15 @@
 
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+<br/>
+
+<br/><br/>
+
+<br/><br/><br/>
+
+
+
+``` java
+private String myVar = "Hello, world!";
+```
